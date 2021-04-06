@@ -6,7 +6,7 @@ Here you will find my projects
 
 Technical skills:
 
-•	Programming Languages:  Java, JavaScript, ASP.NET, PHP, C#, Arduino 
+•	Programming Languages:  Java, JavaScript, ASP.NET, PHP, C#
 
 •	Database management system: MySQL, Ms SQL server, PostgreSQL
 
