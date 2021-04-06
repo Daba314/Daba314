@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Daba Dashiev!
+Currently I am studing in Georgian college on the computer programming course. I am based in Java and JavaScript.
+Since 2019 I decided to become softtware developer and it is my starting points.
+I am always triyng to improve my skills and participate all helpful events and tutorials.
+Here you will find my projects
+
+
 
 <!--
 **Daba314/Daba314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
