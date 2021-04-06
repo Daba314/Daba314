@@ -4,19 +4,18 @@ Since 2019 I decided to become softtware developer and it is my starting points.
 I am always triyng to improve my skills and participate all helpful events and tutorials.
 Here you will find my projects
 
+Technical skills:
+
+•	Programming Languages:  Java, JavaScript, ASP.NET, PHP, C#, Arduino 
+•	Database management system: MySQL, Ms SQL server, PostgreSQL
+•	Java Framework: Spring, Hibernate, Jersey
+•	Web Technologies: HTML, CSS
+•	Control System: Git
+•	Operating Systems:  Windows
+•	Hardware: Fix printers and power supplies
+•	Ability to optimize code, to read and understand neighborhood code
+•	Knowledge and understanding of the concept of object-oriented programming
+•	Commitment to clear programming code
 
 
-<!--
-**Daba314/Daba314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
