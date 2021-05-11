@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Daba Dashiev!
-Currently I am studing in Georgian college on the computer programming course. I am based in Java and JavaScript.
-Since 2019 I decided to become softtware developer and it is my starting points.
-I am always triyng to improve my skills and participate all helpful events and tutorials.
+Currently, I am studying at Georgian college on a computer programming course. I am based in Java and JavaScript. Since 2019 I decided to become a software developer and it is my starting point. I am always trying to improve my skills and participate in all helpful events and tutorials.
 Here you will find my projects
 
 Technical skills:
