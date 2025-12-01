@@ -10,19 +10,7 @@ Technical skills:
 
 •	Java Framework: Spring, Hibernate, Jersey
 
-•	Web Technologies: HTML, CSS
 
-•	Control System: Git
-
-•	Operating Systems:  Windows
-
-•	Hardware: Fix printers and power supplies
-
-•	Ability to optimize code, to read and understand neighborhood code
-
-•	Knowledge and understanding of the concept of object-oriented programming
-
-•	Commitment to clear programming code
 
 
 
